@@ -1,0 +1,26 @@
+order_id,customer_name,product,category,price,quantity,date,payment_method
+1,Rahul Sharma,Laptop,Electronics,45000,1,2024-01-15,UPI
+2,Priya Singh,T-Shirt,Clothing,599,3,2024-01-16,Credit Card
+3,Amit Kumar,Headphones,Electronics,2999,2,2024-01-16,Debit Card
+4,Sneha Patel,Jeans,Clothing,1499,1,2024-01-17,UPI
+5,Rohit Verma,Smartphone,Electronics,18999,1,2024-01-18,EMI
+6,Anjali Gupta,Saree,Clothing,,2,2024-01-19,Cash
+7,Vikram Rao,Keyboard,Electronics,1299,1,2024-01-19,UPI
+8,Meena Joshi,Shoes,Footwear,2499,1,2024-01-20,Credit Card
+9,Suresh Nair,Laptop,Electronics,45000,1,2024-01-21,Debit Card
+10,Pooja Mehta,Kurta,Clothing,899,4,2024-01-22,UPI
+11,Rajesh Das,Mouse,Electronics,499,2,2024-01-22,Cash
+12,Deepa Iyer,Sandals,Footwear,799,1,2024-01-23,UPI
+13,Karan Malhotra,Monitor,Electronics,,1,2024-01-24,Credit Card
+14,Sunita Yadav,Dress,Clothing,1999,2,2024-01-25,Debit Card
+15,Manoj Tiwari,Headphones,Electronics,2999,1,2024-01-25,UPI
+16,Kavya Reddy,Sneakers,Footwear,3499,1,2024-01-26,UPI
+17,Arjun Bose,Tablet,Electronics,15999,1,2024-01-27,EMI
+18,Lakshmi Pillai,Blouse,Clothing,449,3,2024-01-28,Cash
+19,Nitin Saxena,Laptop,Electronics,45000,1,2024-01-28,Credit Card
+20,Ritika Shah,Handbag,Accessories,2199,1,2024-01-29,UPI
+21,Pradeep Nanda,Charger,Electronics,799,2,2024-01-30,Debit Card
+22,Ananya Roy,Kurti,Clothing,699,2,2024-01-30,UPI
+23,Suresh Nair,Laptop,Electronics,45000,1,2024-01-21,Debit Card
+24,Rahul Sharma,Laptop,Electronics,45000,1,2024-01-15,UPI
+25,Vivek Chandra,Webcam,Electronics,,1,2024-02-01,UPI
